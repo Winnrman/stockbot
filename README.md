@@ -22,6 +22,9 @@ If you have any questions or need assistance, create a new issue and I will get 
 
 I am actively looking for developers who are interested in contributing to the project. If you're passionate about stock trading and want to help improve STOCKBOT, please create an issue or fork the design and create a push request.
 
+## Figma Link(s)
+https://www.figma.com/community/file/1340358457591233432/stockbot-trading-platform
+
 ## Figma Mockups
 
 ![dashboard_image](./images/dashboard.png) 
